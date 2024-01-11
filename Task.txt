@@ -1,0 +1,9 @@
+8/1/2024:
+Toàn: Pandas
+Hải: Numpy
+Cứ:.....
+
+11/1/2024:
+Đạt : Visualize
+Cứ: Linear Regression
+Bảo: K Mean
