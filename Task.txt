@@ -7,3 +7,13 @@ Cứ:.....
 Đạt : Visualize
 Cứ: Linear Regression
 Bảo: K Mean
+
+15/1/2024:
+Hòa : KNN 
+Hải : Decision Tree
+Toàn: Random Forert
+
+18/1/2024:
+Cứ : CNN
+Ngọc : Hàm Kích Hoạt
+Đạt : Hiện tượng Overfit , underfit , gradient 
