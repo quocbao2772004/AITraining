@@ -14,6 +14,22 @@ Hải : Decision Tree
 Toàn: Random Forert
 
 18/1/2024:
-Cứ : CNN
 Ngọc : Hàm Kích Hoạt
 Đạt : Hiện tượng Overfit , underfit , gradient 
+Bảo: Cross Entropy, early stopping
+
+22/1/2024:
+Hải: XGBoost
+Thắng + Tiến Anh :SVM
+Cứ : CNN
+
+
+-Dự Án:
+nhóm 1: Transfer Learning và ResNet và InceptionNet
+
+
+
+
+
+
+
